@@ -1,0 +1,34 @@
+Programming Project 2 by Saurabh Hindlekar
+CPSC 8270
+5|o34|<1|\|[, 1|\| |_337
+
+For pizzazz I have added intentional misspelling. 
+Some examples 
+bai --- bye
+ceak --- cake
+nd --- and
+d00d --- dude
+form --- from
+guise --- guys
+
+Instructions 
+Make and run ./run 
+crtl-D to exit. 
+
+Test cases 
+Encoder Input: Encode this to leet
+Encoder Output: 3|\|<()|)3 7hai5 7() |_337
+Decoder Input: 3|\|<()|)3 7hai5 7() |_337
+Decoder Output: encode this to leet
+Encoder Input: the state banned the practice two years ago in response to the growing trend of voters taking selfies with their filled-in ballots and posting them on social media sites, including facebook and twitter.
+Encoder Output & Decoder Input: 7|-|3 57473 84|\||\|3|) 7|-|3 |o|24<71<3 7\^/() `/34|25 4[,() 1|\| |235|o()|\|53 7() 7|-|3 [,|2()\^/1|\|[, 7|23|\||) ()|= \/()73|25 74|<1|\|[, 53|_|=135 \^/17|-| 7|-|31|2 |=1|_|_3|)-1|\| 84|_|_()75 nd |o()571|\|[, 7|-|3|V| ()|\| 5()<14|_ |V|3|)14 51735, 1|\|<|_\_\|)1|\|[, |=4<38()()|< nd 7\^/1773|2.
+Decoder Output: the state banned the practice two years ago in response to the growing trend of voters taking selfies with their filled-in ballots and posting them on social media sites, including facebook and twitter.
+Encoder Input: He’s producing the dedication ceremony for the opening of the Smithsonian’s National Museum of African American History and Culture (NMAAHC).
+Encoder Ouput & Decoder Input: |-|3’5 |o|2()|)\_\<1|\|[, 7|-|3 |)3|)1<471()|\| <3|23|V|()|\|`/ |=()|2 7|-|3 ()|o3|\|1|\|[, ()|= 7|-|3 5|V|17|-|5()|\|14|\|’5 |\|471()|\|4|_ |V|\_\53\_\|V| ()|= 4|=|21<4|\| 4|V|3|21<4|\| |-|157()|2`/ nd <\_\|_7\_\|23 (|\||V|44|-|<).
+Decoder Output: he’s producing the dedication ceremony for the opening of the smithsonian’s national museum of african american history and culture (nmaahc).
+Pizzaz test
+Encoder Input: Hi guys! It is my birthday today. I come from United States and bring cake from Russia. Bye Dude.
+Encoder Output & Decoder Input: |-|1 guise! 17 15 |V|`/ 81|27|-||)4`/ 7()|)4`/. 1 <()|V|3 form \_\|\|173|) 574735 nd 8|21|\|[, ceak form |2\_\5514. 8`/3 |)\_\|)3.
+Decoder Output: hi guys! it is my birthday today. i come from united states and bring cake from russia. bye dude.
+ 
+
